@@ -6,6 +6,9 @@ h1,h2,h3,h4,h5,h6{
     font-family:Montserrat
 }
 
+texto{
+    font-size: large;
+}
 
 #imagenLogo{
 	width: 8%;
@@ -318,4 +321,9 @@ a:active,a:focus,a:hover{
 .btn-secondary:active,.btn-secondary:focus,.btn-secondary:hover{
     background-color:#1a252f;
     border-color:#1a252f
+}
+
+.yoimagen{
+	margin-top: -50px;
+	border: 2px solid #ddd;
 }
